@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>tspan_Installation</name>
+   <tag></tag>
+   <elementGuidId>6bf20072-93f3-47ce-9be6-d6ed5e6bb868</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Installation' or . = 'Installation')]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>tspan</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Installation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;highcharts-mli3vbi-0&quot;)/svg[@class=&quot;highcharts-root highcharts-legend-series-active&quot;]/g[@class=&quot;highcharts-legend&quot;]/g[1]/g[1]/g[@class=&quot;highcharts-legend-item highcharts-line-series highcharts-color-0 highcharts-series-0&quot;]/text[1]/tspan[1]</value>
+   </webElementProperties>
+</WebElementEntity>
