@@ -76,7 +76,7 @@ The XPath expression that I wrote manually for "Test Cases/TC2" can deal with SV
 
 In fact, there is a big semantic gap between the 2 XPath instances.
 
-Will the Web Recorder and the Web Spy be sometime in future improved so that they generates XPath expression which deals with SVG Elements appropriately perfectly out of box? Honestly, I do not expect it to happen. It would be super difficult. You you wait for some improvement, I suppose, it will be waste of time.
+Will the Web Recorder and the Web Spy be sometime in future improved so that they generates XPath expression which deals with SVG Elements appropriately perfectly out of box? Honestly, I do not expect it to happen. It would be super difficult. If you wait for some improvement, I suppose, it will be waste of time.
 
 I would recommend to those who need to test SVG in Web pages using Katalon Studio
 
